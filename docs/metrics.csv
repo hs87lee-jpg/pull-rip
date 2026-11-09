@@ -1,1 +1,2 @@
 date,task,result,retries,note
+2026-11-09,T22 Next.js 뼈대·구글 로그인 코드·허용목록 SQL,1회 통과,0,빌드·타입검사 통과. 실제 로그인은 상석 설정 후 확인

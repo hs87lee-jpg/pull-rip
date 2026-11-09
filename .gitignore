@@ -18,3 +18,11 @@ out/
 Thumbs.db
 *.log
 .claude/settings.local.json
+
+# Next.js (create-next-app 기본값)
+/coverage
+/build
+*.pem
+npm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
